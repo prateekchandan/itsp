@@ -1,0 +1,4 @@
+<?php
+$con = mysqli_connect("localhost","USERNAME","PASSWORD","DBNAME") or die("error");
+?>
+
